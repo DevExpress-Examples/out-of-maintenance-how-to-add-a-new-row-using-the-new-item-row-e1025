@@ -1,6 +1,5 @@
 ﻿using System.Windows;
 
 namespace NewItemRow {
-    public partial class App : Application {
-    }
+    public partial class App : Application { }
 }
